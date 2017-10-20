@@ -1,8 +1,8 @@
 # ArtHW2
 - The file is so large because we do a lot of hacks to make OpenNi working in latest Openframework, Xcode and macOS. After Apple acquired PrimeSense, the maintaince for OpenNi is suspended since 2014. (Thanks Apple....) 
 - Developed & Tested under macOS 10.13 (High Sierra)
-- Requires OpenNi plugin for OpenFramework
-- Requires working installations of OpenNI SDK 1.5.7.10, SensorKinect 5.1.2.1, NiTE 1.5.2.21, ofxOpenNi 2.0 Beta addon for openframework
+- Requires ofxOpenNi 2.0 Beta addon for OpenFramework
+- Requires working installations of OpenNI SDK 1.5.7.10, SensorKinect 5.1.2.1 and NiTE 1.5.2.21
 - Installation diagrams are included as ./installGuide_1.pdf and ./installGuide_2.pdf
 - A video demo is included as ./AirPiano_Demo.mp4
 - Wave or raise both hands to get hands captured by program
