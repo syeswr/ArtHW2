@@ -2,8 +2,8 @@
 - Developed & Tested under macOS 10.13 (High Sierra)
 - Requires OpenNi plugin for OpenFramework
 - Requires working installations of OpenNI SDK 1.5.7.10, SensorKinect 5.1.2.1, NiTE 1.5.2.21
-- Installation diagrams are included as installGuide_1.pdf and installGuide_2.pdf
-- A video demo is included as AirPiano_Demo.mp4
+- Installation diagrams are included as ./installGuide_1.pdf and ./installGuide_2.pdf
+- A video demo is included as ./AirPiano_Demo.mp4
 - Wave or raise both hands to get hands captured by program
 - Move hands closer to trigger a note, move hands further to stop triggering
 - Trigger note in different color area to play different notes
