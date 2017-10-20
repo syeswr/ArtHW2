@@ -9,3 +9,4 @@
 - Move hands closer to trigger a note, move hands further to stop triggering
 - Trigger note in different color area to play different notes
 - Follow highlight areas and trigger them in sequence to play the song # London Bridge Is Falling Down
+- All sound effects mixed using Apple's Garageband. Copyright to Apple.
