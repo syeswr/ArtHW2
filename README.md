@@ -1,2 +1,2 @@
 # ArtHW2
--Requires OpenNi plugin for OpenFramework
+- Requires OpenNi plugin for OpenFramework
